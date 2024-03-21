@@ -25,7 +25,7 @@
 # General
 Este documento está diseñado como una guía para establecer estándares de codificación de T-SQL limpios y concisos, que sean lo más independientes de la versión posible.
 
-Esta guí­a de estilo está basada en el Original SQL style guide por Simon Holywell bajo una licencia Creative Commons Attribution-ShareAlike 4.0 International License. Esta versión ha sido realizada por GPT-4 y su desarrollo ha sido gestionado por Rainier Mallol.
+Esta guí­a de estilo está basada en el Original SQL style guide por Simon Holywell bajo una licencia Creative Commons Attribution-ShareAlike 4.0 International License.
 
 ## Hacer
 
